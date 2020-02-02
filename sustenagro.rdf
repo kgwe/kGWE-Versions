@@ -14858,8 +14858,8 @@
 </rdf:Description>
 
 <rdf:Description rdf:about="http://semantic.icmc.usp.br/sustenagro#EconomicIndicator">
-	<rdfs:label xml:lang="pt">Dimensão econômica</rdfs:label>
 	<rdfs:label xml:lang="en">Economic dimension</rdfs:label>
+	<rdfs:label xml:lang="pt">Dimensão econômica - Teste Alteracao</rdfs:label>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://semantic.icmc.usp.br/sustenagro#CropPlanning">
